@@ -1,6 +1,7 @@
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
+We are still working on a workflow and method for contributing to the disabled.life project. 
+Please first discuss the change you wish to make via issue, slack,
 email, or any other method with the owners of this repository before making a change.
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
@@ -13,6 +14,10 @@ Please note we have a code of conduct, please follow it in all your interactions
 3. You may merge the Pull Request in once you have the sign-off from a maintainer
 
 ## Code of Conduct
+
+Note: this is taken from the 11ty CoC.
+We may someday switch to the Disabled Techies Slack CoC (where this project originated)
+or write our own.
 
 ### Our Pledge
 
@@ -69,7 +74,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at me@andy-bell.design. All
+reported by contacting a member of the project team. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
