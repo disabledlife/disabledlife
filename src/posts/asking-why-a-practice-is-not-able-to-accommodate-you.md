@@ -8,39 +8,39 @@ tags:
   - telemedicine
 ---
 
-# Context
+## Context
 
-## Who was this written by?
+### Who was this written by?
 
 This text was written by Mel Chua.
 
-## Who was this written for?
+### Who was this written for?
 
 I wrote this text on behalf of myself. I am based in the USA and am a citizen there. I am multiply disabled, and the relevant disability in this situation was my deafness. I use both spoken English and ASL, and had planned on using spoken English with this particular provider. I also knew I could easily look for a different provider if I needed to. If these aspects are different for you, you might need to adapt the text or use a different tactic.
 
-## Who was this written to?
+### Who was this written to?
 
 This was written to a prospective practice I was seeking telemedicine services from.
 
-## What prompted this writing?
+### What prompted this writing?
 
 A few days before my scheduled appointment, I got an email with the following (excerpted):
 
 > ...Unfortunately we are not able to accommodate you in our practice at this time, and for that we sincerely apologize. There are many situations in which we are not setup at this time to provide optimal care...
-
-> We made this tough decision regarding your care to be as safe as possible as we get our practice started. We know this is not the answer you were expecting, however, and do apologize for that… If you would like to understand more, you can contact us via email at [email address]. We are happy to answer questions you may have.  Again, we are sorry we can’t accommodate you at this time but do appreciate your interest.
+>
+> We made this tough decision regarding your care to be as safe as possible as we get our practice started. We know this is not the answer you were expecting, however, and do apologize for that… If you would like to understand more, you can contact us via email at [email address]. We are happy to answer questions you may have. Again, we are sorry we can’t accommodate you at this time but do appreciate your interest.
 
 I responded via email to the office staff, and also wrote a separate message to the individual provider appealing to our shared identities as women of color. Both are included in the example text below.
 
-## Outcome
+### Outcome
 
 After not getting results from this back and forth (they emailed me back an almost identical response, I wrote back again with "this is the same response I received before") I decided to drop it and switch to a different provider instead, because I was managing multiple medical issues simultaneously and did not have enough time to fight everything on principle.
 
 I wonder if a different response would have gotten better results, and would to know what others think about this.
 
-# Example text
+## Example text
 
-## Email to office staff
+### Email to office staff
 
 I’d like to know the rationale behind the decision of not being able to accommodate me at [practice]. Could you please elaborate?
 
@@ -58,7 +58,7 @@ The right of disabled people to access healthcare is protected by the Americans 
 
 I'd like a more specific rationale on why you cannot accommodate me. In the absence of that, I will feel an obligation to let others know that [practice] might not be willing to accommodate disabled patients, so they don't go through the same experience.
 
-## To provider
+### To provider
 
 Hi, [provider name] - I was hoping to work with you at [practice]. (I was so excited at the prospect of possibly seeing a fellow woman of color as my [specialty] healthcare provider for the first time!) I haven't been able to get through your office staff, though - and wanted to see if I could reach you another way and let you know what might be going on, in case you weren't aware yet or there might be something you could do.
 
@@ -66,7 +66,7 @@ We were originally supposed to see each other on [date] - but then [one day earl
 
 (text to office staff was included below)
 
-# Notes
+## Notes
 
 1. Not all deaf people consider deafness to be a disability; I used this language because the Americans with Disabilities Act was the law protecting my right to accommodations in this case.
 2. If I'd proceeded further, I could have used something like this to advocate for accelerated scheduling: "Under the ADA, a patient with a disability should not wait longer than other patients simply because they are disabled."
