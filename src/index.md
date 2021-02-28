@@ -1,6 +1,6 @@
 ---
 layout: home
-title: disabled.life - remixable templates for navigating an abled world
+title: disabled.life
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'disabled.life is an open content project with remixable templates for navigating life as a disabled person in an abled world'
