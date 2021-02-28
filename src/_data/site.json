@@ -1,13 +1,12 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "disabled.life",
+  "shortDesc": "An open content project with remixable templates for navigating life as a disabled person in an abled world",
+  "url": "https://disabled.life",
+  "authorEmail": "david.a.peter@gmail.com",
+  "authorHandle": "",
+  "authorName": "disabled.life",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png"
 }
